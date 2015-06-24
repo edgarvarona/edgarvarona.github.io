@@ -4,11 +4,13 @@ h1{
 
 body {
 	background: #F44336;
-
+	width: 100%
+	height: 100%
 }
-.navbar-default { 
-	background-color: #ffffff;
-	border-color: #F44336
-
-
+.background {
+	width: 100%;
+	height: auto;
+}
+p {
+	padding-left: 30%;	
 }
